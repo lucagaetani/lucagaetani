@@ -1,6 +1,8 @@
 ### Hey! 👋 Luca Gaetani here!
 
 - :books: I'm currently studying IT at University Ca'Foscari of Venice!
+- 🌱 Currently learning C++
+- 📫 Do you want to contact me about anything? Here's my LinkedIn profile: https://www.linkedin.com/in/lucagaetani/
 
 <!--
 **lucagaetani/lucagaetani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
