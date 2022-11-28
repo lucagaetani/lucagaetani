@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey! 👋 Luca Gaetani here!
+
+- :books: I'm currently studying IT at University Ca'Foscari of Venice!
 
 <!--
 **lucagaetani/lucagaetani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
