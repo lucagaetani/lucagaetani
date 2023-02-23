@@ -2,7 +2,7 @@
 
 - :books: I'm finishing studies on IT at University Ca'Foscari of Venice!
 - 🌱 Currently learning OT Cybersecurity!
-- :zap: Programming in my freetime!
+- :zap: I'm programming in my freetime!
 - 📫 Do you want to contact me about anything? Here's my LinkedIn profile: https://www.linkedin.com/in/lucagaetani/
 
 <!--
