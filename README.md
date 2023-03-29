@@ -1,7 +1,7 @@
 ### Hey! 👋 Luca Gaetani here!
 
 - :books: I'm finishing studies on IT at University Ca'Foscari of Venice!
-- 🌱 Currently learning OT Cybersecurity!
+- 🌱 Currently learning Javascript, C# and C++!
 - :zap: I'm programming in my freetime!
 - 📫 Do you want to contact me about anything? Here's my LinkedIn profile: https://www.linkedin.com/in/lucagaetani/
 
